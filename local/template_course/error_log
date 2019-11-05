@@ -1,0 +1,9 @@
+[21-Feb-2019 18:08:13 Africa/Dakar] Default exception handler: Coding error detected, it must be fixed by a programmer: Cache definition core/coursecatrecords requires simple keys. Invalid key provided. Debug: -1
+Error code: codingerror
+* line 573 of /cache/classes/helper.php: coding_exception thrown
+* line 852 of /cache/classes/loaders.php: call to cache_helper::hash_key()
+* line 282 of /cache/classes/loaders.php: call to cache->parse_key()
+* line 248 of /lib/coursecatlib.php: call to cache->get()
+* line 37 of /local/template_course/renderer.php: call to coursecat::get()
+* line 32 of /local/template_course/index.php: call to template_course_renderer->course_category()
+

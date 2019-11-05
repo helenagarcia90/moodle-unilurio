@@ -1,0 +1,16 @@
+[14-Jun-2018 14:14:50 Africa/Dakar] PHP Warning:  include(/home/oculag2m/public_html/moodle/local/template_course/version.php): failed to open stream: No such file or directory in /home/oculag2m/public_html/moodle/lib/classes/plugin_manager.php on line 294
+[14-Jun-2018 14:14:50 Africa/Dakar] PHP Warning:  include(): Failed opening '/home/oculag2m/public_html/moodle/local/template_course/version.php' for inclusion (include_path='/home/oculag2m/public_html/moodle/lib/zend:/home/oculag2m/public_html/moodle/lib/pear:.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/oculag2m/public_html/moodle/lib/classes/plugin_manager.php on line 294
+[21-Feb-2019 17:38:37 Africa/Dakar] Default exception handler: A required parameter (section) was missing Debug: 
+Error code: missingparam
+* line 481 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 6 of /admin/settings.php: call to required_param()
+
+[21-Feb-2019 17:41:52 Africa/Dakar] PHP Warning:  include(/home/oculag2m/public_html/moodle/local/template_course/version.php): failed to open stream: No such file or directory in /home/oculag2m/public_html/moodle/lib/classes/plugin_manager.php on line 294
+[21-Feb-2019 17:41:52 Africa/Dakar] PHP Warning:  include(): Failed opening '/home/oculag2m/public_html/moodle/local/template_course/version.php' for inclusion (include_path='/home/oculag2m/public_html/moodle/lib/zend:/home/oculag2m/public_html/moodle/lib/pear:.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/oculag2m/public_html/moodle/lib/classes/plugin_manager.php on line 294
+[21-Feb-2019 18:07:36 Africa/Dakar] Default exception handler: A required parameter (section) was missing Debug: 
+Error code: missingparam
+* line 481 of /lib/setuplib.php: moodle_exception thrown
+* line 548 of /lib/moodlelib.php: call to print_error()
+* line 6 of /admin/settings.php: call to required_param()
+

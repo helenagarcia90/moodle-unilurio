@@ -1,0 +1,28 @@
+[16-Jun-2018 21:52:05 Africa/Dakar] [client 208.91.198.24]  http://ocularis-senegal.org/moodle  Failed Login:  cfresno@ocularis.ong  Mozilla/5.0 (Linux; Android 8.1.0; ONEPLUS A5000 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36
+[16-Jun-2018 21:52:42 Africa/Dakar] [client 208.91.198.24]  http://ocularis-senegal.org/moodle  Failed Login:  cfresno@ocularis.ong  Mozilla/5.0 (Linux; Android 8.1.0; ONEPLUS A5000 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36
+[18-Jun-2018 15:04:11 Africa/Dakar] [client 208.91.198.24]  http://ocularis-senegal.org/moodle  Failed Login:  cfresno@ocularis.ong  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+[18-Jun-2018 15:06:38 Africa/Dakar] [client 208.91.198.24]  http://ocularis-senegal.org/moodle  Failed Login:  karlosfresno1989  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+[18-Jun-2018 16:39:56 Africa/Dakar] [client 208.91.198.24]  http://ocularis-senegal.org/moodle  Failed Login:  cfresno@ocularis.ong  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+[18-Jun-2018 16:40:40 Africa/Dakar] [client 208.91.198.24]  http://ocularis-senegal.org/moodle  Failed Login:  cfresno@ocularis.ong  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+[18-Jun-2018 16:41:24 Africa/Dakar] [client 208.91.198.24]  http://ocularis-senegal.org/moodle  Failed Login:  cfresno@ocularis.ong  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+[18-Jun-2018 16:41:36 Africa/Dakar] [client 208.91.198.24]  http://ocularis-senegal.org/moodle  Failed Login:  cfresno@ocularis.ong  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+[18-Jun-2018 16:42:00 Africa/Dakar] [client 208.91.198.24]  http://ocularis-senegal.org/moodle  Failed Login:  cfresno@ocularis.ong  Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+[18-Jun-2018 16:57:03 Africa/Dakar] [client 208.91.198.24]  http://ocularis-senegal.org/moodle  Failed Login:  hola@ocularis-senegal.org  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+[21-Feb-2019 17:49:53 Africa/Dakar] Default exception handler: Error sending password change confirmation email Debug: 
+Error code: cannotmailconfirm
+* line 481 of /lib/setuplib.php: moodle_exception thrown
+* line 110 of /login/lib.php: call to print_error()
+* line 65 of /login/forgot_password.php: call to core_login_process_password_reset_request()
+
+[21-Feb-2019 17:50:27 Africa/Dakar] Default exception handler: Error sending password change confirmation email Debug: 
+Error code: cannotmailconfirm
+* line 481 of /lib/setuplib.php: moodle_exception thrown
+* line 110 of /login/lib.php: call to print_error()
+* line 65 of /login/forgot_password.php: call to core_login_process_password_reset_request()
+
+[21-Feb-2019 18:09:06 Africa/Dakar] Default exception handler: Erreur lors de l'envoi du courriel de confirmation de modification de mot de passe Debug: 
+Error code: cannotmailconfirm
+* line 481 of /lib/setuplib.php: moodle_exception thrown
+* line 110 of /login/lib.php: call to print_error()
+* line 65 of /login/forgot_password.php: call to core_login_process_password_reset_request()
+
