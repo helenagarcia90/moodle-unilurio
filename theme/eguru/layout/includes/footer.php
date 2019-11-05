@@ -54,11 +54,11 @@ $phoneno  = theme_eguru_get_setting('phoneno');
             	<div class="span3">
                 	<div class="footer-desc">
                     	<div class="logo-footer">
-                        	<a href="https://foot.upc.edu/es" target="_blank">
+                        	<a href="https://www.sjdhospitalbarcelona.org/es" target="_blank">
                                 <img src="<?php print $CFG->wwwroot; ?>/theme/eguru/pix/home/logo3.png" style="width:200px; margin-bottom: 50px;" />
                             </a>
-                            <a href="https://www.sjdhospitalbarcelona.org/es" target="_blank">
-                                <img src="<?php print $CFG->wwwroot; ?>/theme/eguru/pix/home/logo5.png" style="width:200px;" />
+                            <a href="https://foot.upc.edu/es" target="_blank">
+                                <img src="<?php print $CFG->wwwroot; ?>/theme/eguru/pix/home/logo5.jpg" style="width:200px;" />
                             </a>
                         </div>
                         <?php echo '<p>'.$footnote.'</p>'; ?>
@@ -68,7 +68,7 @@ $phoneno  = theme_eguru_get_setting('phoneno');
                     <div class="footer-desc">
                         <div class="logo-footer">
                             <a href="https://www.vilanova.cat" target="_blank">
-                                <img src="<?php print $CFG->wwwroot; ?>/theme/eguru/pix/home/logo4.gif" style="width:150px; margin-bottom: 50px;" />
+                                <img src="<?php print $CFG->wwwroot; ?>/theme/eguru/pix/home/logo4.jpg" style="width:150px; margin-bottom: 50px;" />
                             </a>
                             <!--a href="http://www.fundacioferreruela.com/" target="_blank">
                                 <img src="<?php print $CFG->wwwroot; ?>/theme/eguru/pix/home/logo6.png" style="width:150px;" />
