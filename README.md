@@ -24,8 +24,8 @@ $CFG->dboptions = array (
   'dbsocket' => '',
 );
 
-$CFG->wwwroot   = 'http://localhost:8088/moodle-unilurio-prod';
-$CFG->dataroot  = '/home/hgarcia/bitnami/lampstack/moodledataunilurio';
+$CFG->wwwroot   = 'http://localhost';
+$CFG->dataroot  = 'moodledataunilurio';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0770;
