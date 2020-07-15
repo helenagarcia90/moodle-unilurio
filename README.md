@@ -2,7 +2,7 @@
 
 ## Create config.php
 
-```
+```php
 <?php
 
 // Moodle configuration file
